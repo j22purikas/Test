@@ -12,5 +12,8 @@ class MainActivity : AppCompatActivity() {
         //test2 test test
         //test3
         //test4
+        //test7
+        //test6
+        //test8
     }
 }
